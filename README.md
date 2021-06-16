@@ -1,6 +1,4 @@
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/apolo.sys/count.svg" />  
-</p>
+
 
 # Hi, my name is Alex. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
