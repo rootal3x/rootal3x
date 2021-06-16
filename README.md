@@ -1,6 +1,6 @@
 
 
-# Hi, my name is Alex. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, my name is Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - 💠 I am currently developing the project "HispanosRP"
